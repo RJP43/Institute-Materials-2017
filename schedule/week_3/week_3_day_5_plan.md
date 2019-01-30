@@ -12,7 +12,7 @@
 * **Code lab:** participants code alone or in small groups
 
 * * *
-## 9:00–10:30: [Publishing strategies and sustainability](week_3_day_5_session_1.md)
+## 9:00–10:30: [Publishing strategies and sustainability](publish.md)
 
 Time | Topic | Type
 ---- | ---- | ---- 
@@ -38,7 +38,9 @@ Time | Topic | Type
 
 Time | Topic | Type
 ---- | ---- | ---- 
-90 min | Deployment | Code lab
+15 min | [Visualizing TAG and LMNL with Alexandria](alexandria.md) | Presentation
+30 min | Collation with XML (open `collating_xml.ipynb`, which is inside `schedule/week_2/collation_with_markup`) | Presentation
+45 min | Deployment | Presentation
 
 ## 3:30–4:00: Coffee break
 

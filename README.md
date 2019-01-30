@@ -6,8 +6,7 @@ permalink: /
 
 ## Rationale
 
-Digital humanists already have access to workshops and tutorials to help them learn to transcribe, edit, and tag a text in preparation for publishing a digital edition. These training resources play a vital role in empowering editors to formalize and instantiate their interpretations as markup, so as to make them available for subsequent analysis. Nonetheless, sophisticated markup expertise alone is not enough to make an edition, and learning nothing more than tagging may leave scholars staring at their angle brackets and wondering what to do next. For some a solution like TEI Tapas provides an adequate next step, but for those who wish to ask new types of questions of their documents, and to produce new types of editions that enable new types of research, an understanding of how to turn a set of tagged texts into a customized edition that meets individualized research goals is crucial. Digital humanists cannot build editions that break new methodological ground solely on the basis of solutions prepared largely by others, and the focus of this Institute is on the creation of digital editions motivated by project-specific research questions and implemented from a perspective driven first by theory of edition, second by editorial methodology, and necessarily but less importantly by specific toolkits. In this respect we foreground not learning a particular programming language or technology or framework, but learning to think and act digitally about the process of creating a digital edition. Because tools and technologies come and go, the Institute emphasizes learning to translate original digital thinking about editions into implementations of those editions, rather than on “tooling up” in the context of currently popular frameworks. In this respect, the Institute recognizes thinking digitally in ways driven by project-specific research goals as the most important feature of _sustainable Digital Humanities training and education._
-
+Digital humanists already have access to workshops and tutorials to help them learn to transcribe, edit, and tag a text in preparation for publishing a digital edition. Nonetheless, sophisticated markup expertise alone is not enough to make an edition, and learning nothing more than tagging may leave scholars staring at their angle brackets and wondering what to do next. Digital humanists cannot build editions that break new methodological ground solely on the basis of solutions prepared largely by others, and the focus of this Institute is on the creation of digital editions motivated by project-specific research questions and implemented from a perspective driven first by theory of edition, second by editorial methodology, and necessarily but less importantly by specific toolkits. In this respect, this Institute recognizes thinking digitally in ways driven by project-specific research goals as the most important feature of sustainable Digital Humanities training and education.
 ## Instructors
 
 <table>
@@ -27,12 +26,19 @@ The instructors will be assisted by:
 <tr><td><img src="images/ekb.jpg" width="200px" alt="[Bennett picture]"/></td><td style="vertical-align: middle">Eleanor (Kyri) Bennett<br/>Institute Assistant<br/>University of Pittsburgh</td></tr>
 <tr><td><img src="images/ks_cropped.png" width="200px" alt="[Sanders image]"/></td><td style="vertical-align: middle">Kaylen Sanders<br/>Institute Assistant<br/>University of Pittsburgh</td></tr>
 </table>
+
+## Participants
+
+<img src="images/nehgroup.jpg" alt="Group photo"/>
+
+Thank you to all of our participants for a brilliant Institute!
  
 ## Additional information
 
 * [Call](admin/call.md) for applications
 * [Lightning talk](admin/lightning.md) from the NEH Office of Digital Humanities Project Directors Meeting, 2016-09-16
 * Follow us on Twitter: [@makeyouredition](https://twitter.com/makeyouredition), [#MakeYourEdition2017](https://twitter.com/hashtag/MakeYourEdition2017).
+* [Digital editions created by Institute participants](general/participant_editions.md)
 
 ____
 <a href="https://www.neh.gov/" title="National Endowment for the Humanities"><img align="left" src="images/neh_logo_horizontal_rgb.png" alt="NEH" class="rpad"></a>_Make_ your _edition: models and methods for digital textual scholarship_ has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor. Any views, findings, conclusions, or recommendations expressed in materials developed for this project do not necessarily represent those of the National Endowment for the Humanities.
